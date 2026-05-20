@@ -1,0 +1,6 @@
+{
+  "name": "Studio 24",
+  "description": "Portafolio web de alta gama de la agencia boutique Studio 24, con interfaces fluidas, diseño premium y rendimiento excepcional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
