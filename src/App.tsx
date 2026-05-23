@@ -11,6 +11,7 @@ import { ServiceItem } from './types';
 import AtmosphericBg from './components/AtmosphericBg';
 import ServiceCard from './components/ServiceCard';
 import TalkModal from './components/TalkModal';
+import { Link } from 'react-router-dom';
 
 export default function App() {
   const [isTalkModalOpen, setIsTalkModalOpen] = useState(false);
