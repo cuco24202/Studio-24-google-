@@ -15,7 +15,7 @@ export default function TalkModal({ isOpen, onClose }: TalkModalProps) {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [projectType, setProjectType] = useState('fullstack');
-  const [budget, setBudget] = useState('€10k - €25k');
+  const [budget, setBudget] = useState('$10k - $25k');
   const [message, setMessage] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
